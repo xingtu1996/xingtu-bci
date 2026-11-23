@@ -44,6 +44,17 @@ External projects, when referenced, are only compared by form and mechanism, mar
 - **Guardrail list**: executable rules promoted from cases (when to become a script gate, hook, or hard rule).
 - **Promotion path**: a case starts as "record only"; promote to a hard rule only when evidence is sufficient. Do not turn one lesson into a global ban lightly.
 
+## Home and Navigation
+
+This repo belongs to the case-study section of the [XingTu open-source matrix](https://github.com/xingtu1996) and is maintained independently. The [profile repo](https://github.com/xingtu1996) only indexes; it does not duplicate this repo's content.
+
+The four case repos divide by boundary and cross-reference each other:
+
+- [xingtu-testting](https://github.com/xingtu1996/xingtu-testting) - AI testing
+- [xingtu-bot](https://github.com/xingtu1996/xingtu-bot) - Bot form factors
+- [xingtu-agent](https://github.com/xingtu1996/xingtu-agent) - Agent deployment
+- [xingtu-bci](https://github.com/xingtu1996/xingtu-bci) - Collaboration bad cases
+
 ## Quick start
 
 ```bash

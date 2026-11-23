@@ -44,6 +44,18 @@
 - **护栏清单**：从坏例升级出的可执行规则（何时该变成脚本 Gate / hook / 硬规则）。
 - **升级路径**：坏例先「仅记录」，证据够了再提为硬红线——不轻易把一条教训变成全局禁令。
 
+
+## 归属与导航
+
+本仓属于[行途 XingTu 开源矩阵](https://github.com/xingtu1996)的案例集分区，主题独立维护；[名片仓](https://github.com/xingtu1996)只做索引，不复制本仓内容。
+
+案例集分四仓，按边界分工、互相引用：
+
+- [xingtu-testting](https://github.com/xingtu1996/xingtu-testting) · AI 测试
+- [xingtu-bot](https://github.com/xingtu1996/xingtu-bot) · Bot 形态
+- [xingtu-agent](https://github.com/xingtu1996/xingtu-agent) · Agent 落地
+- [xingtu-bci](https://github.com/xingtu1996/xingtu-bci) · 协作坏例
+
 ## 快速开始
 
 ```bash
